@@ -34,7 +34,7 @@ You can increase the scale and add some labels. For example,
     \end{tikzpicture}
 
 ### Terms of Use
-The files in this repository constitute free software that you can redistribute
+This repository and its contents are free software that you can redistribute
 and/or modify under the terms of the GNU General Public License, as published
 by the Free Software Foundation (version 3 of the License).
 
