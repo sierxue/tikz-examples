@@ -1,13 +1,17 @@
+%% File: wheatstone_bridge_2.tex
+%% Author: williamdemeo@gmail.com
+%% Copyright (C) 2015 William DeMeo
 
-      \node (bot) at (0,0)  [draw, circle, inner sep=\dotsize] {};
-      \node (top) at (0,3)  [draw, circle, inner sep=\dotsize] {};
 
-      \node (a1) at (-2,1.5)  [draw, circle, inner sep=\dotsize] {};
-      \node (a2) at (-1,1.5)  [draw, circle, inner sep=\dotsize] {};
-      \node (a3) at (0,1.5)  [draw, circle, inner sep=\dotsize] {};
-      \node (b) at (0,1)  [draw, circle, inner sep=\dotsize] {};
-      \node (a4) at (1,1.5)  [draw, circle, inner sep=\dotsize] {};
-      \node (a5) at (2,1.5)  [draw, circle, inner sep=\dotsize] {};
+      \node[lat] (bot) at (0,0)  {};
+      \node[lat] (top) at (0,3)  {};
+
+      \node[lat] (a1) at (-2,1.5)  {};
+      \node[lat] (a2) at (-1,1.5)  {};
+      \node[lat] (a3) at (0,1.5)  {};
+      \node[lat] (b) at (0,1)  {};
+      \node[lat] (a4) at (1,1.5)  {};
+      \node[lat] (a5) at (2,1.5)  {};
 
       \draw (top) node [above] {$1_X$};
       \draw (a1) node [left] {$\alpha_1$};
