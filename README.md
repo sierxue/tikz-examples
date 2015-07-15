@@ -33,3 +33,22 @@ You can increase the scale and add some labels. For example,
       \draw (0,-1) node {{\tt file: M3.tex}};
     \end{tikzpicture}
 
+### Terms of Use
+The files in this repository constitute free software that you can redistribute
+and/or modify under the terms of the GNU General Public License, as published
+by the Free Software Foundation (version 3 of the License).
+
+This repository and its contents have been made freely available in the hope
+that they will be useful, but WITHOUT ANY WARRANTY; without even the implied
+warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should be able to find a copy of the GNU General Public License
+along with this repository.  If not, see
+[http://www.gnu.org/licenses/](http://www.gnu.org/licenses/).
+
+Refer to the license file for the precise terms, but roughly speaking this
+software may be used, modified, and shared, as long as and all modifications and
+improvements are also publicly and freely available.
+
+
