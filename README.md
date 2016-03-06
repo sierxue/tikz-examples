@@ -33,6 +33,10 @@ You can increase the scale and add some labels. For example,
       \draw (0,-1) node {{\tt file: M3.tex}};
     \end{tikzpicture}
 
+### Troubleshooting
+
+**Questions/comments/suggestions:** please [open a new issue](https://github.com/williamdemeo/tikz-examples/issues/new).
+
 ### Terms of Use
 This repository and its contents are free software that you can redistribute
 and/or modify under the terms of the GNU General Public License, as published
